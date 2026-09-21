@@ -144,5 +144,21 @@ Through this lab I gained hands-on experience with:
 ## 🔐 SOC Relevance
 
 Failed authentication monitoring is an important SOC use case. A SOC analyst should be able to distinguish normal user mistakes or expected activity from patterns that may warrant further investigation, such as password spraying, brute-force attempts or compromised credentials.
-
 This lab demonstrates a basic end-to-end SOC workflow using Microsoft Sentinel: *detection, triage, investigation, analysis and resolution*.
+
+## 🛡️ Key Skills Demonstrated
+
+- Microsoft Sentinel
+- Microsoft Defender
+- Kusto Query Language (KQL)
+- Windows Security Event ID 4625 Analysis
+- Failed Logon Detection & Investigation
+- Security Incident Triage
+- Authentication Log Analysis
+- Event Correlation
+- SOC Investigation Workflow
+- Incident Investigation & Resolution
+
+
+
+
